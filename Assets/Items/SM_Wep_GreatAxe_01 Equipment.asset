@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01d4536b6f66354aa5ae2f9342808db, type: 3}
+  m_Name: SM_Wep_GreatAxe_01 Equipment
+  m_EditorClassIdentifier: 
+  id: SM_Wep_GreatAxe_01
+  displayName: Great Axe
+  icon: {fileID: 21300000, guid: 145c2f7e253f81d4eba0a0e342e027df, type: 3}
+  prefab: {fileID: 8649856687769976163, guid: a3b421e97562852449bf6c662548aeb3, type: 3}
+  isDefaultItem: 0
+  oneHanded: 0
+  equipSlot: 3
+  armorModifier: 5
+  damageModifier: 30
+  attackSpeedModifier: 3

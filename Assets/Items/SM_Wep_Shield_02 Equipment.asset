@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01d4536b6f66354aa5ae2f9342808db, type: 3}
+  m_Name: SM_Wep_Shield_02 Equipment
+  m_EditorClassIdentifier: 
+  id: SM_Wep_Shield_02
+  displayName: Knight shield
+  icon: {fileID: 21300000, guid: a45af0a54281367428a3a1db464f849f, type: 3}
+  prefab: {fileID: 3060389143309709664, guid: 82caf4066b734924a81e3abd05bba0ac, type: 3}
+  isDefaultItem: 0
+  oneHanded: 1
+  equipSlot: 4
+  armorModifier: 10
+  damageModifier: 0
+  attackSpeedModifier: 2
